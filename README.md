@@ -8,7 +8,7 @@ Includes the functions to calculate soil moisture and snowmelt, a decision data 
 
 ## Flood_process_classification.R
 
-Gives and example of what input data for the classification is needed and how the functions are applied. 
+Gives an example of what input data for the classification is needed and how the functions are applied. 
 
 
 ## event_df.csv
