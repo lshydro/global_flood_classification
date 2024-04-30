@@ -19,4 +19,4 @@ Output for the classification. Gsim.no, gsim.AMAX_date, gsim.lat.new, gsim.long.
 
 Process_out refers to the classified flood generating process. For more information on the classification and to cite this work please refer to:
 
->Stein, Lina; Pianosi, Francesca; Woods, Ross (2019) Event-based classification for global study of river flood generating processes (Unpublished)
+>Stein, L., Pianosi, F., & Woods, R. (2020). Event‐based classification for global study of river flood generating processes. Hydrological Processes, 34(7), 1514-1529.
